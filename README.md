@@ -10,7 +10,8 @@ If you want to manually put the file in OpenWebUI, just drop the file into the "
 
 REMEMBER TO EDIT THE LOCATION PARAMETER FOR THE DATABASE BEFORE CALLING THE TOOL (ToDo-Adjust)
 
-If using Docker (Reccomended)
+If using Docker (Reccomended):
+
 To use the database RAG (required for operation) just edit the parameter for where the DB is stored and
 adjust it to the location of the Database in your Docker instance/wherever the file is stored.
 
